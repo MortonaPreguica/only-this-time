@@ -1,34 +1,45 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+[![Next.js](https://assets.zeit.co/image/upload/v1538361091/repositories/next-js/next-js.png)](https://nextjs.org)
 
-## Getting Started
+<h1 align="center">Next.js 🤝 MongoDB</h1>
 
-First, run the development server:
+---
 
-```bash
+A project made with Next.js and GraphQL/PostreSQL web application, designed with simplicity for learning
+
+![Badge](https://img.shields.io/static/v1?label=License&message=MIT&color=8dbb05&style=for-the-badge)
+![Badge](https://img.shields.io/static/v1?label=npm&message=6.14.13&color=d8624c&style=flat)
+![Badge](https://img.shields.io/static/v1?label=web&message=react&color=0f80c0&style=flat)
+![Badge](https://img.shields.io/static/v1?label=npm&message=6.14.13&color=d8624c&style=flat)
+
+<p align="center">
+  <a href="#objetivo">Objetivo</a>
+  <a href="#objetivo">Tecnologia</a>
+  <a href="#objetivo">How to use</a>
+  <a href="#objetivo">Contribution</a>
+  <a href="#objetivo">License</a>
+  <a href="#objetivo">Autor</a>
+</p>
+
+<h4 align="center">🚧 Next.js GraphQL ⚙ Em construção... 🚧</h4>
+
+<h2>Features</h2>
+
+- [] Cadastro de usuário
+- [] Cadastro de Bookmarks
+- [] Route protection
+
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-mongodb&project-name=with-mongodb&repository-name=with-mongodb&env=MONGODB_URI,MONGODB_DB&envDescription=Required%20to%20connect%20the%20app%20with%20MongoDB)
+
+<h1>How to use</h1>
+git clone 
+
+cd only-this-time
+
+npm install 
+
 npm run dev
-# or
-yarn dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<h1>Contribution</h1>
+<h1>Licence</h1>
+<h1>Autor</h1>
