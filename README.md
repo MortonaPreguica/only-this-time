@@ -32,14 +32,15 @@ A project made with Next.js and GraphQL/PostreSQL web application, designed with
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-mongodb&project-name=with-mongodb&repository-name=with-mongodb&env=MONGODB_URI,MONGODB_DB&envDescription=Required%20to%20connect%20the%20app%20with%20MongoDB)
 
 <h1>How to use</h1>
-git clone 
+``bash
+git clone https://github.com/MortonaPreguica/only-this-time.git
 
 cd only-this-time
 
 npm install 
 
 npm run dev
-
+``
 <h1>Contribution</h1>
 <h1>Licence</h1>
 <h1>Autor</h1>
