@@ -37,14 +37,14 @@ npm run dev
 <p>Criação do software capaz de um realizar CRUD, enviando informações para um banco de dados real hospedado com nós. Autenticação de Usuário, o usuário será capaz de autenticar dentro do app e salvar suas informações para a proxima vez que entrar possuir sua informações pessoais. Proteção de Rotas, queremos que apenas administradores possam adicionar um nome bookmark à coleção geral. </p>
 
 <h2>Features</h2>
-- React/Next.js
-- Node.js
-- GraphQL
-- PostreSQL
-- Nexus.js
-- Tailwindcss
-- SASS
-- NPM
+*React/Next.js
+*Node.js
+*GraphQL
+*PostreSQL
+*Nexus.js
+*Tailwindcss
+*SASS
+*NPM
 
 
 <h2>Coming Changes</h2>
